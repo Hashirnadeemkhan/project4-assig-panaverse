@@ -1,0 +1,15 @@
+[
+  {
+    "template": "Once upon a time, a {adjective} {noun} went to {place} to find a {object}.",
+    "placeholders": {
+      "adjective": "adjective",
+      "noun": "noun",
+      "place": "place",
+      "object": "noun"
+    }
+  },
+  {
+    "template": "i am noun",
+    "placeholders": {}
+  }
+]
